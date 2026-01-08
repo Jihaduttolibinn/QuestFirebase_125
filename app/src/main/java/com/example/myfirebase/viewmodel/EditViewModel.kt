@@ -1,6 +1,5 @@
 package com.example.myfirebase.viewmodel
 
-
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
@@ -23,14 +22,14 @@ class EditViewModel(
     var uiStateSiswa by mutableStateOf(UIStateSiswa())
         private set
 
-    private val idSiswa: Long = savedStateHandle.get<String>(DestinasiDetail.itemIdArg)?.toLong()
-        ?: error("idSiswa tidak ditemukan di SavedStateHandle")
+    private val idSiswa: Long =
+        savedStateHandle.get<String>(DestinasiDetail.itemIdArg)?.toLong()
+            ?: error("idSiswa tidak ditemukan di SavedStateHandle")
 
     init {
         viewModelScope.launch {
-            repositorySiswa.getSatuSiswa(idSiswa)?.let { siswa ->
-                uiStateSiswa = siswa.toUiStateSiswa(true)
-            }
+            uiStateSiswa = repositorySiswa.getSatuSiswa(idSiswa)!!
+                .toUiStateSiswa(true)
         }
     }
 
@@ -53,7 +52,10 @@ class EditViewModel(
     suspend fun editSatuSiswa() {
         if (validasiInput(uiStateSiswa.detailSiswa)) {
             try {
-                repositorySiswa.editSatuSiswa(uiStateSiswa.detailSiswa.toDataSiswa())
+                repositorySiswa.editSatuSiswa(
+                    idSiswa,
+                    uiStateSiswa.detailSiswa.toDataSiswa()
+                )
                 println("Update Sukses: $idSiswa")
             } catch (e: Exception) {
                 println("Update Error: ${e.message}")
