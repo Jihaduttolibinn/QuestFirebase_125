@@ -1,0 +1,23 @@
+<img width="1920" height="1080" alt="Screenshot 2026-01-02 212558" src="https://github.com/user-attachments/assets/57631dff-b589-44f5-8845-58885036a704" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-02 212524" src="https://github.com/user-attachments/assets/bd45bd8c-4260-45ff-9b62-40449d1cffb9" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-02 212445" src="https://github.com/user-attachments/assets/4deea683-737f-45ee-94a4-7bc182fb59cf" />
+
+PERTEMUAN KEDUA
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-08 210122" src="https://github.com/user-attachments/assets/d171a0ee-c214-4c69-9f23-910931849b78" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-08 210132" src="https://github.com/user-attachments/assets/e5277db8-38c2-4a12-b053-bb3d8e12ca25" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b66b9be-b943-46d4-a1aa-859d7d815972" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bfa149e-6976-46b7-b147-27819c7ba376" />
+PENGECEKAN DI FIREBASE
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db12a77b-5da8-4003-b54b-726bfd236786" />
+
+HASIL SETELAH DI HAPUS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/799031be-a327-4601-b093-0e45cc742de1" />
+
+DAN INI ADALAH HASIL DARI FIREBASE SETELAH DATA "EKO" DI HAPUS. DATA EKO SUDAH TIDAK AD
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa0614d6-2f95-42e7-80e9-c040e66fcbd1" />
