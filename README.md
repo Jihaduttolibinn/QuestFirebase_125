@@ -14,3 +14,4 @@ PERTEMUAN KEDUA
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bfa149e-6976-46b7-b147-27819c7ba376" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db12a77b-5da8-4003-b54b-726bfd236786" />
