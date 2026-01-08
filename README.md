@@ -8,4 +8,4 @@ PERTEMUAN KEDUA
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-08 210122" src="https://github.com/user-attachments/assets/d171a0ee-c214-4c69-9f23-910931849b78" />
 
-
+<img width="1920" height="1080" alt="Screenshot 2026-01-08 210132" src="https://github.com/user-attachments/assets/e5277db8-38c2-4a12-b053-bb3d8e12ca25" />
