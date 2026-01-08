@@ -19,3 +19,5 @@ PENGECEKAN DI FIREBASE
 HASIL SETELAH DI HAPUS
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/799031be-a327-4601-b093-0e45cc742de1" />
 
+DAN INI ADALAH HASIL DARI FIREBASE SETELAH DATA "EKO" DI HAPUS. DATA EKO SUDAH TIDAK AD
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa0614d6-2f95-42e7-80e9-c040e66fcbd1" />
